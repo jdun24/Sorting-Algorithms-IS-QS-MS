@@ -6,8 +6,8 @@ make		-> makes an executblae with required .o files
 
 make clean	-> cleans up the .o files
 
-PROCEDURE:   	<exe> <alg> <flag>
-USAGE:  		<exe> <IS|QS|MS> <0|1>
+PROCEDURE:   	<exe> <alg>      <flag>
+USAGE:  		  <exe> <IS|QS|MS> <0|1>
 
 algs
 IS: Insertion Sort
