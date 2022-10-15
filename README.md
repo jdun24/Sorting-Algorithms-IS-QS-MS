@@ -1,8 +1,10 @@
 # Insertion-Sort/Quick-sort/Merge-sort
+    This was Project #1 for CSE 310 / Data Structures & Algorithms
+    The purpose of this project was to demonstrate my ability to use the following 3 sorting algs
 
 This program utilizes a makefile.
 
-make		-> makes an executblae with required .o files
+make		-> makes an executable with required .o files
 
 make clean	-> cleans up the .o files
 
